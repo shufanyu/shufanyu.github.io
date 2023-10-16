@@ -7,10 +7,10 @@ url: shufanyu.github.io
 # Owner/author information
 owner:
   name: Shufan Yu
-  avatar: Shufan_Portrait.jpg
+  avatar: /images/Shufan_Portrait.jpg
  # bio:
   email: yushufan1993@gmail.com
-  cv: https://shufanyu.github.io/file/CV_Shufan_Yu_0923.PDF
+  cv: /file/CV_Shufan_Yu_0923.PDF
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: 
   github: 
