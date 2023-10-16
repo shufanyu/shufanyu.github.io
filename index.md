@@ -4,13 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="images/ShufanAERA.jpg" class="floatpic" width="568" height="426">
 
 
-I am a Ph.D. candidate majoring in **Educational technology** at the School of Educational Information Technology, Central China Normal University. My research interet includes Augmened Reality（AR）/Virtual Reality (VR) based learning, Embodied cognition, and Game based learning. 
+I am a Ph.D. candidate in **Educational technology** at the School of Educational Information Technology, Central China Normal University. My research interet includes Augmened Reality（AR）/Virtual Reality (VR) based learning, Embodied cognition, and Game based learning. 
 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *yushufan1993[at]gmail[dot]com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *[yushufan1993@gmail.com](mailto:yushufan1993@gmail.com)*
 
 <br>
 
