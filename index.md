@@ -6,22 +6,24 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer interning at Cambridge University with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/).
+I am a Ph.D. candidate majoring in **Educational technology** at the School of Educational Information Technology, Central China Normal University. My research interet includes Augmened Reality（AR）/Virtual Reality (VR) based learning, Embodied cognition, and Game based learning. 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *yushufan1993[at]gmail[dot]com*
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for Post Doctoral fellow Position to start in 2024 Spring. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year Mphil program and graduate in 2025. Looking for PhD position after that.
+- **June 2019 - Dec 2023:** Central China Normal University (Ph.D. in Educational Technology). Advisor: Dr. Qingtang Liu
+- **Nov 2021 - Dec 2022:** Arizona State University (Visting Scholar at [Embodied Games lab](https://www.embodied-games.com/games/natural-selection-catch-a-mimic/)). Advisor: Dr. [Mina C. Johnson-Glenberg](https://search.asu.edu/profile/1154172)
+- **Sep 2016 - June 2019:** Central China Normal University (M.S. in Educational Technology).Advisor: Dr. Qingtang Liu
+- **Sep 2012 - June 2016:** Yancheng Teachers University (B.E. in Digital Media Technology)
+
+-
 
 <br>
 
@@ -29,23 +31,22 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
+- AR/VR based instruction
+- Embodied Cognition
+- Technology Enhanced learning
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
+My current research focuses on an AR-based Circuit experiment in jornal high school. 
 <br>
 
 ---
 
 ## News and Updates
 
-- **Sep 2023：**[DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started internship at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Sep 2023：**
+- **Aug 2023：**
+- **May 2023：**
+- **May 2023：**
+- **Jan 2023：**
+- **Jun 2022：**
 
 <br>
