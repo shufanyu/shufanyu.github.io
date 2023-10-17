@@ -10,7 +10,7 @@ layout: page
 I am a Ph.D. candidate in **Educational technology** at the School of Educational Information Technology, Central China Normal University. My research interet includes Augmened Reality（AR）/Virtual Reality (VR) based learning, Embodied cognition, and Game based learning. 
 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *[yushufan1993@gmail.com](mailto:yushufan1993@gmail.com)*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at  *[yushufan1993@gmail.com](mailto:yushufan1993@gmail.com)*
 
 <br>
 
