@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for Post Doctoral fellow Position to start in 2024 Spring. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for Post Doctoral fellow Position or Assitant professor to start in 2024 Spring. Contact me if you have any leads!**
 
 - **June 2019 - Dec 2023:** Central China Normal University (Ph.D. in Educational Technology). Advisor: Dr. Qingtang Liu
 - **Nov 2021 - Dec 2022:** Arizona State University (Visting Scholar at [Embodied Games lab](https://www.embodied-games.com/games/natural-selection-catch-a-mimic/)). Advisor: Dr. [Mina C. Johnson-Glenberg](https://search.asu.edu/profile/1154172)
