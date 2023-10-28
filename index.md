@@ -12,7 +12,7 @@ I am a Ph.D. candidate in **Educational technology** at the School of Educationa
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at  *[yushufan1993@gmail.com](mailto:yushufan1993@gmail.com)*
 <br>
-This is my [CV](/file/CV_Shufan.PDF) 
+This is my CV: [get the PDF]({{ site.url }}/file/CV_Shufan.PDF)
 <br>
 
 ## Academic Background
