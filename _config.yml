@@ -6,11 +6,11 @@ url:
 
 # Owner/author information
 owner:
-  name: Shufan Yu
+  name: Shufan Yu 余舒凡
   avatar: Shufan_Portrait.jpg
- # bio:
+  bio: Virtual makes reality beter
   email: yushufan1993@gmail.com
-  cv: /file/CV_Shufan.pdf
+  cv: /file/CV_Shufan_Yu_2310.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: 
   github: 
@@ -36,10 +36,12 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Home
     url: /
   - title: Publications
     url: /publications/
+  - title: CV
+    url: /CVs/
   # - title: Awards
   #   url: /awards/
   # - title: Fundings
