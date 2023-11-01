@@ -60,11 +60,5 @@ Lastest Update: 17th Oct 2023&nbsp;
 - [**XR - Titration and Civil Engineering: Design Issues & Preliminary Results**](https://www.aera.net/Publications/i-Presentation-Gallery){:target="blank"}<br> Mina C. Johnson-Glenberg, Anoosh Kapadia, Frank Liu, Robert Likamwa,**Shufan Yu**, Augustin Bennett, Mehmet Kosa, Yueming Bao, Don Balanzat, Shin-Phing Yu<br> Poster presented at the American Educational Research Association (AERA), San Diego, CA. April, 2022.<br> [<img src="/images/icons/pdf-file.png"  width="20" height="20">](/mypaper/Posters/AERA%20Poster%202022v2%20(1).pdf)&nbsp;
   
 
----
 
-##  Thesis
-
-- 
-
-- 
   <br>
