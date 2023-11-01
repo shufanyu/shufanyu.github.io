@@ -7,4 +7,4 @@ pdf_file: "/file/CV_Shufan_Yu_2310.pdf"
 
 ## Curriculum Vitae
 
-  {% pdf {{page.pdf_file}}  height=1000px no_link %}
+  <object data="{{ site.url }}{{ site.baseurl }}/file/CV_Shufan_Yu_2310.pdf"  height=600px type="application/pdf"></object>
