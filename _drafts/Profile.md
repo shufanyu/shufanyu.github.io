@@ -15,3 +15,6 @@ layout: page
 
 My current research (dissertation) focuses on an AR-based Circuit experiment in jornal high school. 
 <br>
+
+--下面是简历的PDF embeded 方式
+ <object data="{{ site.url }}{{ site.baseurl }}/file/CV_Shufan_Yu_2310.pdf"  height=350px type="application/pdf"></object>
