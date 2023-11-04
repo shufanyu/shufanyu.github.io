@@ -7,7 +7,7 @@ youtubeId: YlQoMfwplEE
 
 Lastest Update: 17th Oct 2023&nbsp;  
 
-{% include VideoPlayer.html id=page.youtubeId %}
+
 
 ## Journal Paper 📝 
 
