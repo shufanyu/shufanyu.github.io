@@ -137,11 +137,13 @@ School of Educational Information Technology, Wuhan, Hubei, China<br>
 ### PROFESSIONAL MEMBERSHIP
 
 - Modern Educational Technology Branch of Chinese Institute of Electronics
+- Immersive Learning Research Network (iLRN)
 
 
 ---
 ### REVIEWER
 - Journal of computer assisted learning
+- IEEE transactions on learning technology
 - Computers & Education
 - Education and information technologies
 - Journal of Research on Technology in Education

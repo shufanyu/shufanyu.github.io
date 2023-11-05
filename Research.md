@@ -1,6 +1,11 @@
 ---
 layout: page
+permalink: /Research/index.html
+title: Research
 Titration: /images/Titration/Titration.png
+VideoPlayer: VideoPlayer.html
+TitrationVideoID: lrTeYkLTKKYlN9xY
+ARExpPlatformID: ait6nQs7YUY
 ---
 
 <img src>
@@ -9,7 +14,9 @@ Titration: /images/Titration/Titration.png
 
 ### AR/VR based experiment
 - Supported project:
-
+{%include {{page.VideoPlayer}} id=TheiwYHhcpI%}
+### Haptic titration experiment
+{%include {{page.VideoPlayer}} id=TheiwYHhcpI%}
 
 ### VR based Chinese Dulcimer (yangqin)
 - Supported project:
