@@ -33,7 +33,7 @@ School of Educational Information Technology, Wuhan, Hubei, China<br>
 ---
 ### RESEARCH 
 
- ***Interest***<br>
+ ***Research interest***<br>
 - XR-based Learning
 - Virtual experiment
 - Embodied cognition

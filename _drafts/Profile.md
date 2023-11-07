@@ -18,3 +18,8 @@ My current research (dissertation) focuses on an AR-based Circuit experiment in 
 
 --下面是简历的PDF embeded 方式
  <object data="{{ site.url }}{{ site.baseurl }}/file/CV_Shufan_Yu_2310.pdf"  height=350px type="application/pdf"></object>
+
+ <br><br><br>
+<img src="/images/icons/pdf-file.png" width="35" height="35">&nbsp;
+<img src="/images/icons/ResearchGate_icon_SVG.svg.png"  width="35" height="35">&nbsp;
+<img src="/images/icons/Video_icon.png" width="35" height="35">
