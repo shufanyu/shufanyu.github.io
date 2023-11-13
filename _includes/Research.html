@@ -1,18 +1,21 @@
-<div class="resaerchLayout">
-<div class="Resaerch_leftC">
-    <div class="embed-container">
-        <iframe src="https://www.youtube.com/embed/{{ include.id }}"
-         frameborder="0" 
-         allowfullscreen="true">
-        </iframe>
+<div class="researchLayout">
+    <div class="Research_leftC">
+        <div class="embed-container">
+            {%if {{include.id}}%}
+            <iframe src="https://www.youtube.com/embed/{{ include.id}}" frameborder="0" allowfullscreen="true">
+            </iframe>
+            {%endif%}
+            {%if {{include.imgURL}}%}
+            <img src="{{include.imgURL}}" width="300" height="151" class="img-shadow"></img>
+            {%endif%}
+        </div>
     </div>
-</div>
-<div class="Resaerch_RightC">
-    <div class="embed-container">
-        <iframe src="https://www.youtube.com/embed/{{ include.id }}"
-         frameborder="0" 
-         allowfullscreen="true">
-        </iframe>
+    <div class="Research_RightC">
+            <div class="researchDescription">
+                <div class="researchtitle">
+                   <b>{{include.title}}</b> 
+                </div>
+               
+            </div>
     </div>
-</div>
 </div>

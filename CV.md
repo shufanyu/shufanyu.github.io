@@ -60,7 +60,7 @@ School of Educational Information Technology, Wuhan, Hubei, China<br>
 
 1. **Yu, S.** , Liu, Q., Liu, J., Ma, J., & Yang, Y. (2023). Integrating augmented reality into acoustics learning and examining its effectiveness: a case study of Doppler effect. _Education and Information Technologies_. https://doi.org/10.1007/s10639-023-12091-y
 
-2. Liu, J., Liu, Q., Yu, S., Ma, J., Liu, M., & Wu, L. (2023). How do autonomy and learner characteristics combine to influence learners’ learning outcomes and cognitive load in virtual reality learning environments? A fuzzy-set qualitative comparative analysis approach. Education and Information Technologies, 0123456789. https://doi.org/10.1007/s10639-023-12262-x
+2. Liu, J., Liu, Q., **Yu, S**., Ma, J., Liu, M., & Wu, L. (2023). How do autonomy and learner characteristics combine to influence learners’ learning outcomes and cognitive load in virtual reality learning environments? A fuzzy-set qualitative comparative analysis approach. Education and Information Technologies, 0123456789. https://doi.org/10.1007/s10639-023-12262-x
 
 3. Gong, X., **Yu, S**., Xu, J., Qiao, A., & Han, H. (2023). The effect of PDCA cycle strategy on pupils' tangible programming skills and reflective thinking. _Education and Information Technologies_, _0123456789_. https://doi.org/10.1007/s10639-023-12037-4 **(Corresponding author)**
 
@@ -72,9 +72,9 @@ School of Educational Information Technology, Wuhan, Hubei, China<br>
 
 7. **Yu, S**., Liu, Q., Ma, J., Le, H., & Ba, S. (2022). Applying Augmented reality to enhance physics laboratory experience: does learning anxiety matter? _Interactive Learning Environments_, 1–16. https://doi.org/10.1080/10494820.2022.2057547
 
-8. Wang, C., & **Yu, S**. (2023). Tablet-to-student ratio matters: Learning performance and mental experience of collaborative inquiry. _Journal of Research on Technology in Education_, _55_(4), 646–662. https://doi.org/10.1080/15391523.2021.2015018 (Corresponding author)
+8. Wang, C., & **Yu, S**. (2023). Tablet-to-student ratio matters: Learning performance and mental experience of collaborative inquiry. _Journal of Research on Technology in Education_, _55_(4), 646–662. https://doi.org/10.1080/15391523.2021.2015018 **(Corresponding author)**
 
-9. Liu, Q., **Yu, S**., Chen, W., Wang, Q., & Xu, S. (2021). The effects of an augmented reality based magnetic experimental tool on students' knowledge improvement and cognitive load. _Journal of Computer Assisted Learning_, _37_(3), 645–656. https://doi.org/10.1111/jcal.12513 **(****Corresponding **** author)**
+9. Liu, Q., **Yu, S**., Chen, W., Wang, Q., & Xu, S. (2021). The effects of an augmented reality based magnetic experimental tool on students' knowledge improvement and cognitive load. _Journal of Computer Assisted Learning_, _37_(3), 645–656. https://doi.org/10.1111/jcal.12513 **(Corresponding author)**
 
 10. Yang, W., Qingtang, L., Haoyi, H., Hairu, Y., **Shufan, Y.** , Huixiao, L., & Yangyang, Y. (2018). Personal Active Choreographer: Improving the Performance of the Tujia Hand-Waving Dance. _IEEE Consumer Electronics Magazine_, 7(4), 15–25.
 <hr class="hr-wavy">
@@ -88,15 +88,15 @@ School of Educational Information Technology, Wuhan, Hubei, China<br>
 
 4. Qingtang, L., Yuwei, J., Jindian, L., Miaomiao, H., Jingjing, M., & **Shufan, Y**. (2021). Design and Implementation of Virtual Sanxian Teaching System. _2021 IEEE International Conference on Engineering, Technology & Education (TALE)_, 938–943. https://doi.org/10.1109/TALE52509.2021.9678770
 
-5. **Shufan, Y.** , Qingtang, L., Suxiao, X., Yuanyuan, Y., & Linjing, W. (2018). Design and Practice of Exploratory Virtual Experiment in Physics Discipline. _Proceedings of the__2018 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)_, Wollongong, Australia. (presentation)
+5. **Shufan, Y.** , Qingtang, L., Suxiao, X., Yuanyuan, Y., & Linjing, W. (2018). Design and Practice of Exploratory Virtual Experiment in Physics Discipline. *Proceedings of the 2018 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)*, Wollongong, Australia. (presentation)
 
-6. Liu, Q., **Yu, S**., Lin, L., Xu, S., & Wu, L. (2018). Design and Implementation of an Immersive Virtual Reality Biological Courseware—Miraculous Eyeball. _Proceedings of the 201__8_ _International Conference on Blended Learning (ICBL),_ Kansai, Japan. (presentation)
+6. Liu, Q., **Yu, S**., Lin, L., Xu, S., & Wu, L. (2018). Design and Implementation of an Immersive Virtual Reality Biological Courseware—Miraculous Eyeball. _Proceedings of the 2018 International Conference on Blended Learning (ICBL)_, Kansai, Japan. (presentation)
 
-7. Liu, Q., **Yu, S.** , Wang, Y., Le, H., & Yuan, Y. (2017). A hand-waving dance teaching system based on kinect. _Proceedings of the 2017 International Conference on Blended Learning (ICBL),_ Hongkong, China. (presentation)
+7. Liu, Q., **Yu, S.** , Wang, Y., Le, H., & Yuan, Y. (2017). A hand-waving dance teaching system based on kinect. _Proceedings of the 2017 International Conference on Blended Learning (ICBL)_, Hongkong, China. (presentation)
 
 8. Liu, Q., Xu, S., **Yu, S.** , Yang, Y., Wu, L., & Ba, S. (2019). Design and implementation of an ar-based inquiry courseware - Magnetic field. _Proceedings of the 2019 International Symposium on Educational Technology (ISET),_ Hradec Králové, Czech Republic.
 
-9. Zhai, X. M., Meng, N., & **Yu, S**. (2019). Investigating Using Behaviors of E-dictionary with Multiple Design: A Perspective from the Integration of Eye-Tracking Technique and Stimulated Recall. _Proceedings of the__2018 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)_, Wollongong, Australia.
+9. Zhai, X. M., Meng, N., & **Yu, S**. (2019). Investigating Using Behaviors of E-dictionary with Multiple Design: A Perspective from the Integration of Eye-Tracking Technique and Stimulated Recall. _Proceedings of the 2018 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)_, Wollongong, Australia.
 
 10. Yang, Y., Liu, Q., Wu, L., Xu, S., **Yu, S.** , & Zhang, N. (2019). Design and development of mobile augmented reality for mathematical experiments. _Proceedings of the 2019 International Symposium on Educational Technology (ISET),_ Hradec Králové, Czech Republic.
 <hr class="hr-wavy">

@@ -5,6 +5,10 @@
  VideoPlayer: VideoPlayer.html
  TitrationVideoID: TheiwYHhcpI
  ARExpPlatformID: ait6nQs7YUY  
+ researchURL: /MyResearch/
+ Myreserach1: /MyResearch/ARmagnetism.html
+ Myreserach2: /MyResearch/CircuitAR.html
+ research: Research.html
 ---
 
 
@@ -30,29 +34,19 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
    
 ---
-### Research
+#### Research
+{{}}
+#### [**1. AR/VR based experiment**]()
+ **Supported project:** <font color=grey>Research on development system for virtual and real fusion experiments of multimodal natural interaction (Grant No: CCNU18JCXK03)</font>
 
-#### [**1. AR/VR based experiment**](){:target="blank"}
-1. [**AR/VR based experiment**](){:target="blank"} <br>
-<img src="{{page.VirtualExp}}"  width="300" height="151" class="img-shadow">
-{%if page.ARExpPlatformID%} 
- {%include {{page.VideoPlayer}} id=page.ARExpPlatformID%}
-{%endif%}
-我要开始写文档了！
+<iframe  src="/MyResearch/CircuitAR.html" width="100%" height=230px style="border:none;"> </iframe>
 
-2. [**Haptic Titration experiment**](){:target="blank"} <br>
-<img src="{{page.Titration}}"  width="300" height="151" class="img-shadow">
-{%if page.TitrationVideoID%} 
-{%include {{page.VideoPlayer}} id=page.TitrationVideoID%}
-{%endif%}
-我要开始写文档了！
-
-3. [**VR based Chinese Dulcimer (yangqin)**](){:target="blank"}
+<iframe  src="/MyResearch/ARmagnetism.html" width="100%" height=480px style="border:none;"> </iframe>
 
 
-4. [**Tujia minority Dance teaching (sayeerhe 撒叶儿嗬)**](){:target="blank"} 
+#### [**2. Virtual dulcimer**]()
 
 
-5. [**Museum learning**](){:target="blank"} 
- 
- {%include Research.html id=page.TitrationVideoID%}
+#### [**3. Virtual dance teaching**]()
+
+#### [**4. Virtual Museum learning**]()
