@@ -6,6 +6,20 @@
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<script>
+ function resizeIframes() {
+        var iframes = document.querySelectorAll('.auto-resize-iframe');
+        iframes.forEach(function(iframe) {
+            var iframeWindow = iframe.contentWindow || iframe.contentDocument.parentWindow;
+            if (iframeWindow.document.body) {
+                iframe.style.height = iframeWindow.document.documentElement.scrollHeight + 'px';
+            }
+        });
+    }
+
+    // Adjust the iframes every second (800 milliseconds)
+    setInterval(resizeIframes, 800);
+</script>
 
 <head>
 <!-- It is not recommended to modify this code, unless you are a Pro-->
@@ -107,8 +121,6 @@
 		    <ul>
 		        
             <li><a href="http://localhost:4000/" >Home</a></li>
-		        
-            <li><a href="http://localhost:4000/Research/" class="top-navigation-current">Research</a></li>
 		        
             <li><a href="http://localhost:4000/publications/" >Publications</a></li>
 		        

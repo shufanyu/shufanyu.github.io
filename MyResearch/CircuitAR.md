@@ -7,7 +7,7 @@ url: /images/virtual experiment/circuitDir.gif
 imgURL: /images/virtual experiment/circuitDir.gif
 ---
 
-#### Circuit experiment (Ongoing research)  <img src="/images/icons/ARicon.png"  width="25" height="25">
+#### 1️⃣ Circuit experiment (Ongoing research)  <img src="/images/icons/ARicon.png"  width="20" height="20">
 
 This research is my dissertation work. I aimed to create an AR-based circuit experiment which can **facilitate students’ embodied interaction** compared to existing virtual circuit platform. 
 

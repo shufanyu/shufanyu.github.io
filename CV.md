@@ -21,13 +21,13 @@ School of Educational Information Technology, Wuhan, Hubei, China<br>
 
 ---
 ### EDUCATION
-**2019 - 2023 Ph.D. student in Educational Technology. Advisor: Dr. Qingtang Liu**<br>
+**2019 - 2023&emsp;Ph.D. student in Educational Technology. Advisor: Dr. Qingtang Liu**<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Virtual Learning Lab, Central China Normal University, Wuhan, China<br>
-**2021 - 2022 Visiting Scholar in cognitive psychology.Advisor: Dr. Mina C. Johnson-Glenberg**<br>
+**2021 - 2022&emsp;Visiting Scholar in cognitive psychology.Advisor: Dr. Mina C. Johnson-Glenberg**<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Embodied Games Lab, Arizona State University, Tempe, AZ, USA<br>
-**2016 – 2019 M.S. in Educational Technology. Advisor: Dr. Qingtang Liu**<br>
+**2016 – 2019&emsp;M.S. in Educational Technology. Advisor: Dr. Qingtang Liu**<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Virtual Learning Lab, Central China Normal University, Wuhan, China<br>
-**2012 – 2016 B.E. in Digital Media Technology, 2016**<br>
+**2012 – 2016&emsp;B.E. in Digital Media Technology, 2016**<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Yancheng Teachers University, Yancheng, China
 
 ---

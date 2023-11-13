@@ -1,27 +1,24 @@
-
 <head>
     {% include head.html %}
 </head>
 
 
 <div class="researchLayout">
-        <div class="embed-container">
-            {%if {{page.id}}%}
-            <iframe src="https://www.youtube.com/embed/{{ page.id}}" frameborder="0" allowfullscreen="true">
-            </iframe>
-            <br>
-            <br>
-            {%endif%}
-      
-            {%if {{page.imgURL}}%}
-            <img src="{{page.imgURL}}"  class="img-shadow"></img>
-            
-            {%endif%}
-        </div>
-            <div class="researchDescription">
-                <div class="researchDescription">
-                    {{content}}
-                </div>             
-            </div>
+    <div class="embed-container">
+        {%if {{page.id}}%}
+        <iframe src="https://www.youtube.com/embed/{{ page.id}}" frameborder="0" allowfullscreen="true">
+        </iframe>
+        <br>
+        <br>
+        {%endif%}
+
+        {%if {{page.imgURL}}%}
+        <img src="{{page.imgURL}}" class="img-shadow"></img>
+
+        {%endif%}
+    </div>
+    <div class="researchDescription">
+        {{content}}
+    </div>
 
 </div>

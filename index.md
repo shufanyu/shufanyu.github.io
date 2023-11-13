@@ -39,11 +39,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 #### [**1. AR/VR based experiment**]()
  **Supported project:** <font color=grey>Research on development system for virtual and real fusion experiments of multimodal natural interaction (Grant No: CCNU18JCXK03)</font>
 
-<iframe  src="/MyResearch/CircuitAR.html" width="100%" height=230px style="border:none;"> </iframe>
+<iframe  src="/MyResearch/CircuitAR.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no" > </iframe>
 
-<iframe  src="/MyResearch/ARmagnetism.html" width="100%" height=480px style="border:none;"> </iframe>
-
-
+---
+<iframe  src="/MyResearch/ARmagnetism.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
+---
+<iframe  src="/MyResearch/Titration.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
 #### [**2. Virtual dulcimer**]()
 
 

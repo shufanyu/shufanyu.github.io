@@ -6,6 +6,20 @@
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<script>
+ function resizeIframes() {
+        var iframes = document.querySelectorAll('.auto-resize-iframe');
+        iframes.forEach(function(iframe) {
+            var iframeWindow = iframe.contentWindow || iframe.contentDocument.parentWindow;
+            if (iframeWindow.document.body) {
+                iframe.style.height = iframeWindow.document.documentElement.scrollHeight + 'px';
+            }
+        });
+    }
+
+    // Adjust the iframes every second (800 milliseconds)
+    setInterval(resizeIframes, 800);
+</script>
 
 <head>
 <!-- It is not recommended to modify this code, unless you are a Pro-->
@@ -107,8 +121,6 @@
 		    <ul>
 		        
             <li><a href="http://localhost:4000/" class="top-navigation-current">Home</a></li>
-		        
-            <li><a href="http://localhost:4000/Research/" >Research</a></li>
 		        
             <li><a href="http://localhost:4000/publications/" >Publications</a></li>
 		        
@@ -259,10 +271,12 @@
 <h4 id="1-arvr-based-experiment"><a href=""><strong>1. AR/VR based experiment</strong></a></h4>
 <p><strong>Supported project:</strong> <font color="grey">Research on development system for virtual and real fusion experiments of multimodal natural interaction (Grant No: CCNU18JCXK03)</font></p>
 
-<iframe src="/MyResearch/CircuitAR.html" width="100%" height="230px" style="border:none;"> </iframe>
+<iframe src="/MyResearch/CircuitAR.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
 
-<iframe src="/MyResearch/ARmagnetism.html" width="100%" height="480px" style="border:none;"> </iframe>
-
+<hr />
+<iframe src="/MyResearch/ARmagnetism.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
+<hr />
+<iframe src="/MyResearch/Titration.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
 <h4 id="2-virtual-dulcimer"><a href=""><strong>2. Virtual dulcimer</strong></a></h4>
 
 <h4 id="3-virtual-dance-teaching"><a href=""><strong>3. Virtual dance teaching</strong></a></h4>
