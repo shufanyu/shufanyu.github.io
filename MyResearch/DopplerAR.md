@@ -5,7 +5,7 @@ TitrationVideoID: mVShKiltc9w
 id: 
 url: /images/virtual experiment/MagnetismFramework.png
 imgURL: /images/virtual experiment/DopplerAR.png
-imgURL2: /images/virtual experiment/DopplerClass.png
+imgURL2: /images/virtual experiment/DopplerClass.jpg
 ---
 
 #### 4️⃣ Doppler effect simulation <img src="/images/icons/ARicon.png"  width="20" height="20">
