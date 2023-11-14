@@ -34,10 +34,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
    
 ---
-#### Research
+### Research
 {{}}
-#### [**1. AR/VR based experiment**]()
- **Supported project:** <font color=grey>Research on development system for virtual and real fusion experiments of multimodal natural interaction (Grant No: CCNU18JCXK03)</font>
+#### **1. AR/VR based experiment**
 
 <iframe  src="/MyResearch/CircuitAR.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no" > </iframe>
 
@@ -48,6 +47,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 #### [**2. Virtual dulcimer**]()
 
 
-#### [**3. Virtual dance teaching**]()
+#### **3. Tujia dance choreographer**
 
-#### [**4. Virtual Museum learning**]()
+#### **4. Virtual Museum**
