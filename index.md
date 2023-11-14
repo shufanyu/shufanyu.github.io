@@ -27,26 +27,36 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 <table><tr><td bgcolor=	'#F0F0F0'><b>📣 <font color="#A13232">I am looking for Post Doctoral fellow or Assitant professor to start in 2024 Spring. Contact me if you have any leads!</font></b></td></tr></table>
 
-- **June 2019 - Dec 2023:** Central China Normal University (Ph.D. in Educational Technology). Advisor: Dr.[**<font color="#A13232">Qingtang Liu</font>**](http://faculty.ccnu.edu.cn/2006982951){:target="blank"}
-- **Nov 2021 - Dec 2022:** Arizona State University (Visting Scholar at [**<font color="#A13232">Embodied Games lab</font>**](https://www.embodied-games.com/games/natural-selection-catch-a-mimic/){:target="blank"}). Advisor: Dr. [**<font color="#A13232">Mina C. Johnson-Glenberg</font>**](https://search.asu.edu/profile/1154172){:target="blank"}
-- **Sep 2016 - June 2019:** Central China Normal University (M.S. in Educational Technology).Advisor: Dr. [**<font color="#A13232">Qingtang Liu</font>**](http://faculty.ccnu.edu.cn/2006982951){:target="blank"}
+- **June 2019 - Dec 2023:** Virtual learning lab, Central China Normal University (Ph.D. in Educational Technology). Advisor: Dr. [**<font color="#A13232">Qingtang Liu</font>**](http://faculty.ccnu.edu.cn/2006982951){:target="blank"}
+- **Nov 2021 - Dec 2022:** [**<font color="#A13232">Embodied Games lab</font>**](https://www.embodied-games.com/games/natural-selection-catch-a-mimic/){:target="blank"}, Arizona State University (Visting Scholar). Advisor: Dr. [**<font color="#A13232">Mina C. Johnson-Glenberg</font>**](https://search.asu.edu/profile/1154172){:target="blank"}
+- **Sep 2016 - June 2019:** Virtual learning lab, Central China Normal University (M.S. in Educational Technology). Advisor: Dr. [**<font color="#A13232">Qingtang Liu</font>**](http://faculty.ccnu.edu.cn/2006982951){:target="blank"}
 - **Sep 2012 - June 2016:** Yancheng Teachers University (B.E. in Digital Media Technology)
 
    
 ---
 ### Research
-{{}}
 #### **1. AR/VR based experiment**
 
 <iframe  src="/MyResearch/CircuitAR.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no" > </iframe>
-
----
+<hr class="hr-wavy"> 
 <iframe  src="/MyResearch/ARmagnetism.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
----
+<hr class="hr-wavy"> 
 <iframe  src="/MyResearch/Titration.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
+<hr class="hr-wavy"> 
+<iframe  src="/MyResearch/DopplerAR.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
+<hr class="hr-wavy"> 
+<iframe  src="/MyResearch/ArAtom.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
+<hr class="hr-wavy"> 
 #### [**2. Virtual dulcimer**]()
-
+<iframe  src="/MyResearch/Dulcimer.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
+<hr class="hr-wavy"> 
 
 #### **3. Tujia dance choreographer**
+<iframe  src="/MyResearch/DanceTeaching.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
+<hr class="hr-wavy"> 
 
 #### **4. Virtual Museum**
+**<font color=grey>The virtual museum is one of the projects I participated in. We developed a <font color="#A13232">VR-based Tujia Virtual Instrument Museum to promote the musical culture of the Tujia minority</font>. Based on this museum, we conducted several experiments involving elements like a <u>virtual avatar, controlling learner agency, and incorporating various learning strategies</u>. Below are some typical cases.</font>**
+
+<iframe  src="/MyResearch/VirtualMuseum.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
+<hr class="hr-wavy"> 
