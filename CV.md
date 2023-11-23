@@ -148,6 +148,7 @@ School of Educational Information Technology, Wuhan, Hubei, China<br>
 - Education and information technologies
 - Journal of Research on Technology in Education
 - Journal of educational computing research
+- Universal Access in the Information Society
   
 ---
 ### PROFESSIONAL SKILL
