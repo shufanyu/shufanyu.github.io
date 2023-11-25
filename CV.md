@@ -2,12 +2,12 @@
 layout: page
 permalink: /CVs/index.html
 title: CV
-pdf_file: "/file/CV_Shufan_Yu_2310.pdf"
+pdf_file: "/file/CV_Shufan_Yu.pdf"
 RG_img: "/images/logo/icons8-rg.png"
 ---
 
 ## Curriculum Vitae
-Lastest Update: 1st Nov 2023&nbsp; 
+Lastest Update: 20th Nov 2023&nbsp; 
 [📂]({{page.pdf_file}}){:target="blank"}
 
 
