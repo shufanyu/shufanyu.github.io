@@ -27,7 +27,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 ### Academic Background
 
-<table><tr><td bgcolor=	'#F0F0F0'><b>📣 <font color="#A13232">I am looking for Post Doctoral fellow or Assitant professor to start in 2024 Spring. Contact me if you have any leads!</font></b></td></tr></table>
+<table><tr><td bgcolor=	'#F0F0F0'><b>📣 <font color="#A13232">I am looking for Post Doctoral fellow or Assistant professor to start in 2024 Spring. Contact me if you have any leads!</font></b></td></tr></table>
 
 - **June 2019 - Dec 2023:** Virtual learning lab, Central China Normal University (Ph.D. in Educational Technology). Advisor: Dr. [**<font color="#A13232">Qingtang Liu</font>**](http://faculty.ccnu.edu.cn/2006982951){:target="blank"}
 - **Nov 2021 - Dec 2022:** [**<font color="#A13232">Embodied Games lab</font>**](https://www.embodied-games.com/games/natural-selection-catch-a-mimic/){:target="blank"}, Arizona State University (Visiting Scholar in Cognitive Psychology). Advisor: Dr. [**<font color="#A13232">Mina C. Johnson-Glenberg</font>**](https://search.asu.edu/profile/1154172){:target="blank"}
