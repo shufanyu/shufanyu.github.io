@@ -15,7 +15,7 @@
 ## About Me
 <img src="/images/ShufanAERA.jpg" class="floatpic" width="500" height="375" >
 
-I am currently a Ph.D. candidate in **<font color="#A13232">Educational technology</font>** at the Virtual learning lab in School of Educational Information Technology, Central China Normal University (CCNU). **<font color="#A13232">My research interet includes Augmened Reality (AR)/Virtual Reality (VR) based learning, Embodied cognition, and Game based learning.</font>** 
+I received my Ph.D. degree in **<font color="#A13232">Educational technology</font>** (17th Dec,2023) at the Virtual Learning Lab in the School of Educational Information Technology, Faculty of Artificial Intelligence, Central China Normal University (CCNU). **<font color="#A13232">My research interet includes Augmened Reality (AR)/Virtual Reality (VR) based learning, Embodied cognition, and Game based learning.</font>** 
 
 I have been involved in research projects on various domains, including AR/VR based experiments, as well as the digitialization and preservation of musical culture. My focus encompasses both the **<font color="#A13232">technological</font>** and **<font color="#A13232">cognitive</font>** aspects.On the technological level, I am interested in creating serious games, virtual experiments, and HCI applications. On the cognitive front, I am keen to understand how these virtual manipulatives affect on students' knowledge, emotion, and behavior.
 
