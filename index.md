@@ -15,7 +15,7 @@
 ## About Me
 <img src="/images/ShufanAERA.jpg" class="floatpic" width="500" height="375" >
 
-I received my Ph.D. degree in **<font color="#A13232">Educational technology</font>** (17th Dec,2023) at the Virtual Learning Lab in the School of Educational Information Technology, Faculty of Artificial Intelligence, Central China Normal University (CCNU). **<font color="#A13232">My research interet includes Augmened Reality (AR)/Virtual Reality (VR) based learning, Embodied cognition, and Game based learning.</font>** 
+I received my Ph.D. degree in **<font color="#A13232">Educational technology</font>** at the Virtual Learning Lab in the School of Educational Information Technology, Faculty of Artificial Intelligence, Central China Normal University (CCNU). **<font color="#A13232">My research interet includes Augmened Reality (AR)/Virtual Reality (VR) based learning, Embodied cognition, and Game based learning.</font>** 
 
 I have been involved in research projects on various domains, including AR/VR based experiments, as well as the digitialization and preservation of musical culture. My focus encompasses both the **<font color="#A13232">technological</font>** and **<font color="#A13232">cognitive</font>** aspects.On the technological level, I am interested in creating serious games, virtual experiments, and HCI applications. On the cognitive front, I am keen to understand how these virtual manipulatives affect on students' knowledge, emotion, and behavior.
 
@@ -27,7 +27,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 ### Academic Background
 
-<table><tr><td bgcolor=	'#F0F0F0'><b>📣 <font color="#A13232">I am looking for Post Doctoral fellow or Assistant professor to start in 2024 Spring. Contact me if you have any leads!</font></b></td></tr></table>
+<table><tr><td bgcolor=	'#F0F0F0'><b>📣 <font color="">I am now working as a postdoctoral fellow at <a href="https://blclab.org/" target="_blank" style="color:#a62800;">Brain Language, and Computation (BLC) Lab </a> at The Hong Kong Polytechnic University! (Advisor: <a href="https://blclab.org/ourlab/ping-li/" target="_blank" style="color:#a62800;">Prof. Ping Li</a>)</font></b></td></tr></table>
+
+
+
+
 
 - **June 2019 - Dec 2023:** Virtual learning lab, Central China Normal University (Ph.D. in Educational Technology). Advisor: Dr. [**<font color="#A13232">Qingtang Liu</font>**](http://faculty.ccnu.edu.cn/2006982951){:target="blank"}
 - **Nov 2021 - Dec 2022:** [**<font color="#A13232">Embodied Games lab</font>**](https://www.embodied-games.com/games/natural-selection-catch-a-mimic/){:target="blank"}, Arizona State University (Visiting Scholar in Cognitive Psychology). Advisor: Dr. [**<font color="#A13232">Mina C. Johnson-Glenberg</font>**](https://search.asu.edu/profile/1154172){:target="blank"}
