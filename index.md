@@ -27,9 +27,13 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 ### Academic Background
 
-<table><tr><td bgcolor=	'#F0F0F0'><b>📣 <font color="">I am now working as a postdoctoral fellow at <a href="https://blclab.org/" target="_blank" style="color:#a62800;">Brain Language, and Computation (BLC) Lab </a> at The Hong Kong Polytechnic University! (Advisor: <a href="https://blclab.org/ourlab/ping-li/" target="_blank" style="color:#a62800;">Prof. Ping Li</a>)</font></b></td></tr></table>
-
-
+<table><tr><td bgcolor=	'#F0F0F0'>
+<b>📣 <font color="">I am now working as a postdoctoral fellow at 
+<a href="https://blclab.org/" target="_blank" style="color:#a62800;">Brain Language, and Computation (BLC) Lab </a>
+at The Hong Kong Polytechnic University! (Advisor: 
+<a href="https://blclab.org/ourlab/ping-li/" target="_blank" style="color:#a62800;">Prof. Ping Li</a>)
+</font>
+</b></td></tr></table>
 
 
 
