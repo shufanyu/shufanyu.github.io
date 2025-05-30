@@ -3,21 +3,25 @@ layout: page
 permalink: /CVs/index.html
 title: CV
 pdf_file: "/file/CV_Shufan_Yu.pdf"
+CV_PDF_CN: "/file/CV_Shufan_Yu_CN.pdf"
 RG_img: "/images/logo/icons8-rg.png"
 ---
 
 ## Curriculum Vitae
-Lastest Update: 20th Nov 2023&nbsp; 
-[📂]({{page.pdf_file}}){:target="blank"}
+Latest Update (PDF): 30th May 2025 <br>
+[📂 CV English]({{page.pdf_file}}){:target="blank"}<br>
+[📂 CV Chinese]({{page.CV_PDF_CN}}){:target="blank"}<br>
+<br>
 
-
+<br>
+Latest Update (Page): 20th Nov 2023
 ## **Shufan Yu**
 <hr class="hr-double"/>
 
 Central China Normal University<br>
 School of Educational Information Technology, Wuhan, Hubei, China<br>
 ✉️ : [yushufan1993@gmail.com](mailto:yushufan1993@gmail.com)<br>
-**<img src="{{page.RG_img}}" width="20" height="20">** : [https://www.researchgate.net/profile/Shufan\_Yu](https://www.researchgate.net/profile/Shufan_Yu)<br>
+**<img src="{{page.RG_img}}" width="20" height="20">** : [https://www.researchgate.net/profile/Shufan\_Yu](https://www.researchgate.net/profile/Shufan_Yu){:target="blank"}<br>
 
 ---
 ### EDUCATION
