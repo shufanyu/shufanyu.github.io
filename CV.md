@@ -8,7 +8,7 @@ RG_img: "/images/logo/icons8-rg.png"
 ---
 
 ## Curriculum Vitae
-Latest Update (PDF): 30th May 2025 <br>
+Latest Update (PDF): 19th October 2025 <br>
 [📂 CV English]({{page.pdf_file}}){:target="blank"}<br>
 <!-- [📂 CV Chinese]({{page.CV_PDF_CN}}){:target="blank"}<br> -->
 <br>
