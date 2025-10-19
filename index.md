@@ -15,14 +15,23 @@
 ## About Me
 <img src="/images/ShufanAERA.jpg" class="floatpic" width="500" height="375" >
 
-I received my Ph.D. degree in **<font color="#A13232">Educational technology</font>** at the Virtual Learning Lab in the School of Educational Information Technology, Faculty of Artificial Intelligence, Central China Normal University (CCNU). **<font color="#A13232">My research interet includes Augmened Reality (AR)/Virtual Reality (VR) based learning, Embodied cognition, and Game based learning.</font>** 
+I am currently a postdoctoral fellow at the <a href="https://blclab.org/" target="_blank" style="color:#a62800;">Brain, Language, and Computation (BLC) Lab </a>at The Hong Kong Polytechnic University. 
+My research focuses on the intersection of <font color="#A13232"> cognitive science, immersive learning, and educational technology</font>, aiming to explore how emerging technologies (e.g., AR,VR, GenAI) 
+can enhance learning experiences and cognitive development, by leveraging physiological (e.g., Eye-Tracking, fNIRS, EDA) and behavioral data to inform the design of effective educational interventions. <font color="#A13232">I am particularly interested in exploring the intriguing relationship between the human mind and technology, 
+  not limited to educational contexts but also extending to broader applications in Society, Culture, and Art. </font>
 
-I have been involved in research projects on various domains, including AR/VR based experiments, as well as the digitialization and preservation of musical culture. My focus encompasses both the **<font color="#A13232">technological</font>** and **<font color="#A13232">cognitive</font>** aspects.On the technological level, I am interested in creating serious games, virtual experiments, and HCI applications. On the cognitive front, I am keen to understand how these virtual manipulatives affect on students' knowledge, emotion, and behavior.
+I have been involved in research projects on various domains, including AR/VR based experiments, game-based learning, virtual museum, and digitalization and preservation of musical culture.
+  My focus encompasses both 
+  the <font color="#A13232">technological</font> and <font color="#A13232">cognitive</font> aspects. On the technological level, 
+  I am interested in creating AR/VR applications, virtual experiments, GenAI tools. On the cognitive front, 
+  I am keen to understand how these virtual manipulatives affect on students’ knowledge, emotion, and behavior, 
+  by leveraging multimodal data (e.g., eye-tracking, physiological data, behavioral data).
 
-Most recently, I also found my interest in **<font color="#A13232">the role of generative AI in technology-enhanced learning</font>** (especially in immersive learning), e.g., How students can efficiently utilize AI to enhance their learning experiences? What kind of AI teaching support we can provide to facilitate better educational outcomes.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at  *[yushufan1993@gmail.com](mailto:yushufan1993@gmail.com)*
-<br>
+Most recently, I am doing research on examining the <b><font color="#A13232">neural and behavioral mechanisms</font> </b>of collaborative learning in immersive virtual environments, by utilizing cutting-edge technologies such as VR, fNIRS, and AI.
+  Additionally, we are planning to conduct a experiment on integrating biosignal data and GenAI to adaptively support students' learning in VR environments.
+
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at  <em><a href="mailto:yushufan1993@gmail.com">yushufan1993@gmail.com</a></em>
 
 ---
 ### Academic Background
@@ -57,7 +66,7 @@ at The Hong Kong Polytechnic University! (Advisor:
 <hr class="hr-wavy"> 
 <iframe  src="/MyResearch/ARAtom.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
 <hr class="hr-wavy"> 
-#### [**2. Virtual dulcimer**]()
+#### **2. Virtual dulcimer**
 <iframe  src="/MyResearch/Dulcimer.html" class="auto-resize-iframe" width="100%" frameborder="0" scrolling="no"> </iframe>
 <hr class="hr-wavy"> 
 
