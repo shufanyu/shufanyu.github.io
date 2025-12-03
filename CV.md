@@ -14,17 +14,20 @@ Latest Update (PDF): 19th October 2025 <br>
 <br>
 
 <br>
-Latest Update (Page): 20th Nov 2023
+Latest Update (Page): 3rd Dec 2025
 ## **Shufan Yu**
 <hr class="hr-double"/>
 
-Central China Normal University<br>
-School of Educational Information Technology, Wuhan, Hubei, China<br>
-✉️ : [yushufan1993@gmail.com](mailto:yushufan1993@gmail.com)<br>
+Brain, Language, and Computation Lab<br>
+Department of Language Science and Technology, Faculty of Humanities<br>
+The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong<br>
+✉️ : [shufan.yu1@gmail.com](mailto:shufan.yu1@gmail.com)<br>
 **<img src="{{page.RG_img}}" width="20" height="20">** : [https://www.researchgate.net/profile/Shufan\_Yu](https://www.researchgate.net/profile/Shufan_Yu){:target="blank"}<br>
 
 ---
-### EDUCATION
+### EDUCATION & EXPERIENCE
+**2024 - 2026&emsp;Postdoctoral fellow in Brain, Language, and Computation Lab. Advisor: Prof. Ping Li**<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong<br>
 **2019 - 2023&emsp;Ph.D. in Educational Technology. Advisor: Dr. Qingtang Liu**<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Virtual Learning Lab, Central China Normal University, Wuhan, China<br>
 **2021 - 2022&emsp;Visiting Scholar in cognitive psychology.Advisor: Dr. Mina C. Johnson-Glenberg**<br>
@@ -39,9 +42,9 @@ School of Educational Information Technology, Wuhan, Hubei, China<br>
 
  ***Research interest***<br>
 - XR-based Learning
-- Virtual experiment
+- Cognitive neuroscience
 - Embodied cognition
-- Computer supported collaborative learning (CSCL)
+- Pedagogical agent/avatar 
 <hr class="hr-wavy">
 ***Research project***<br>
 1. **2022-2023 Research on the effect of level of embodiment and external representation of a virtual real mixed electric circuit on students' learning performance** (funded by excellent doctoral dissertation project of Central China Normal University; Grant No: 2022YBZZ025)<br>
@@ -60,7 +63,16 @@ School of Educational Information Technology, Wuhan, Hubei, China<br>
 **Co-PI** : Design and develop the Tujia virtual dance teaching system based on Kinect
 <hr class="hr-wavy">
 
-***Journal articles***
+**Journal articles (* corresponding author)**
+1.	Gong, X., **Yu, S.***, Guan, X., & Qiao, A. (2026). Learners’ interaction patterns in collaborative programming: an integration of the social epistemic interactions. Educational Technology & Society, 29(1), 25-41. doi:10.30191/ETS.202601_29(1).RP02
+
+2.	Ma, J., Liu, Q., **Yu, S.**, Liu, J., Li, X., & Wang, C. (2025). What factors influence scientific concept learning? A study based on the fuzzy‐set qualitative comparative analysis. British Journal of Educational Technology, 56(1), 250–275. https://doi.org/10.1111/bjet.13499
+
+3.	Ma, J., Liu, Q., **Yu, S.**, Li, X., & Liu, J. (2025). Prompting scientific concept learning in augmented reality: impact of the concept map strategy on mental models and cognitive load. Educational Technology Research and Development, 0123456789. https://doi.org/10.1007/s11423-025-10470-5
+
+4.	Chen, F., Zhang, S., Liu, Q., **Yu, S.**, Li, X., & Zheng, X. (2025). Supporting learning performance improvement: Role of online group assessment. Education and Information Technologies, 30(1), 1239–1264. https://doi.org/10.1007/s10639-024-12907-5
+
+5.	Gong, X., Xu, W., **Yu, S.**, Ma, J., & Qiao, A. (2025). Enhancing computational thinking and spatial reasoning skills in gamification programming learning: A comparative study of tangible, block and paper‐and‐pencil tools. British Journal of Educational Technology, 56(1), 80–102. https://doi.org/10.1111/bjet.13482
 
 1. **Yu, S.** , Liu, Q., Liu, J., Ma, J., & Yang, Y. (2023). Integrating augmented reality into acoustics learning and examining its effectiveness: a case study of Doppler effect. _Education and Information Technologies_. https://doi.org/10.1007/s10639-023-12091-y
 
@@ -84,26 +96,39 @@ School of Educational Information Technology, Wuhan, Hubei, China<br>
 <hr class="hr-wavy">
 ***Conference proceedings***
 
-1. Liu, Q., Sun, L., Ma, J., **Yu, S.,** & Wu, L. (2023). Geometry Wall: An Embodied Gesture-based Game for Supporting Spatial Ability. _2022 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)_, 258–263.
+1. **Yu, S.**, Liu, Q., Ye, R., Xu, S., Li, P. (2026) Emotional Incongruency in Pedagogical Agents: The Superior Impact of Positive Tone Over Positive Visuals, AERA 2026 (accepted and will present), Los Angeles, CA, USA.
 
-2. Johnson-Glenberg, M. C., Kapadia, A., Liu, F., Likamwa, R., **Yu, S**., Bennett, A.,  Kosa, M., Bao, Y.,  Balanzat, D.,  & Yu, C. S. P. (2022). _XR - Titration and Civil Engineering: Design Issues & Preliminary Results._ Poster presented at the American Educational Research Association (AERA), San Diego, CA. April, 2022.
+2. Liu, Q., Sun, L., Ma, J., **Yu, S.,** & Wu, L. (2023). Geometry Wall: An Embodied Gesture-based Game for Supporting Spatial Ability. _2022 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)_, 258–263.
 
-3. Liu, J., Liu, Q., **Yu, S**., Ma, J., Liu, M., & Wu, L. (2022). Which Types of Learners Are Suitable for the Virtual Reality Environment: A fsQCA Approach. _2022 8th International Conference of the Immersive Learning Research Network (ILRN)_, 1–5. https://doi.org/10.23919/iLRN55037.2022.9815913
+3. Johnson-Glenberg, M. C., Kapadia, A., Liu, F., Likamwa, R., **Yu, S**., Bennett, A.,  Kosa, M., Bao, Y.,  Balanzat, D.,  & Yu, C. S. P. (2022). _XR - Titration and Civil Engineering: Design Issues & Preliminary Results._ Poster presented at the American Educational Research Association (AERA), San Diego, CA. April, 2022.
 
-4. Qingtang, L., Yuwei, J., Jindian, L., Miaomiao, H., Jingjing, M., & **Shufan, Y**. (2021). Design and Implementation of Virtual Sanxian Teaching System. _2021 IEEE International Conference on Engineering, Technology & Education (TALE)_, 938–943. https://doi.org/10.1109/TALE52509.2021.9678770
+4. Liu, J., Liu, Q., **Yu, S**., Ma, J., Liu, M., & Wu, L. (2022). Which Types of Learners Are Suitable for the Virtual Reality Environment: A fsQCA Approach. _2022 8th International Conference of the Immersive Learning Research Network (ILRN)_, 1–5. https://doi.org/10.23919/iLRN55037.2022.9815913
 
-5. **Shufan, Y.** , Qingtang, L., Suxiao, X., Yuanyuan, Y., & Linjing, W. (2018). Design and Practice of Exploratory Virtual Experiment in Physics Discipline. *Proceedings of the 2018 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)*, Wollongong, Australia. (presentation)
+5. Qingtang, L., Yuwei, J., Jindian, L., Miaomiao, H., Jingjing, M., & **Shufan, Y**. (2021). Design and Implementation of Virtual Sanxian Teaching System. _2021 IEEE International Conference on Engineering, Technology & Education (TALE)_, 938–943. https://doi.org/10.1109/TALE52509.2021.9678770
 
-6. Liu, Q., **Yu, S**., Lin, L., Xu, S., & Wu, L. (2018). Design and Implementation of an Immersive Virtual Reality Biological Courseware—Miraculous Eyeball. _Proceedings of the 2018 International Conference on Blended Learning (ICBL)_, Kansai, Japan. (presentation)
+6. **Shufan, Y.** , Qingtang, L., Suxiao, X., Yuanyuan, Y., & Linjing, W. (2018). Design and Practice of Exploratory Virtual Experiment in Physics Discipline. *Proceedings of the 2018 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)*, Wollongong, Australia. (presentation)
 
-7. Liu, Q., **Yu, S.** , Wang, Y., Le, H., & Yuan, Y. (2017). A hand-waving dance teaching system based on kinect. _Proceedings of the 2017 International Conference on Blended Learning (ICBL)_, Hongkong, China. (presentation)
+7. Liu, Q., **Yu, S**., Lin, L., Xu, S., & Wu, L. (2018). Design and Implementation of an Immersive Virtual Reality Biological Courseware—Miraculous Eyeball. _Proceedings of the 2018 International Conference on Blended Learning (ICBL)_, Kansai, Japan. (presentation)
 
-8. Liu, Q., Xu, S., **Yu, S.** , Yang, Y., Wu, L., & Ba, S. (2019). Design and implementation of an ar-based inquiry courseware - Magnetic field. _Proceedings of the 2019 International Symposium on Educational Technology (ISET),_ Hradec Králové, Czech Republic.
+8. Liu, Q., **Yu, S.** , Wang, Y., Le, H., & Yuan, Y. (2017). A hand-waving dance teaching system based on kinect. _Proceedings of the 2017 International Conference on Blended Learning (ICBL)_, Hongkong, China. (presentation)
 
-9. Zhai, X. M., Meng, N., & **Yu, S**. (2019). Investigating Using Behaviors of E-dictionary with Multiple Design: A Perspective from the Integration of Eye-Tracking Technique and Stimulated Recall. _Proceedings of the 2018 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)_, Wollongong, Australia.
+9.  Liu, Q., Xu, S., **Yu, S.** , Yang, Y., Wu, L., & Ba, S. (2019). Design and implementation of an ar-based inquiry courseware - Magnetic field. _Proceedings of the 2019 International Symposium on Educational Technology (ISET),_ Hradec Králové, Czech Republic.
 
-10. Yang, Y., Liu, Q., Wu, L., Xu, S., **Yu, S.** , & Zhang, N. (2019). Design and development of mobile augmented reality for mathematical experiments. _Proceedings of the 2019 International Symposium on Educational Technology (ISET),_ Hradec Králové, Czech Republic.
+10. Zhai, X. M., Meng, N., & **Yu, S**. (2019). Investigating Using Behaviors of E-dictionary with Multiple Design: A Perspective from the Integration of Eye-Tracking Technique and Stimulated Recall. _Proceedings of the 2018 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)_, Wollongong, Australia.
+
+11. Yang, Y., Liu, Q., Wu, L., Xu, S., **Yu, S.** , & Zhang, N. (2019). Design and development of mobile augmented reality for mathematical experiments. _Proceedings of the 2019 International Symposium on Educational Technology (ISET),_ Hradec Králové, Czech Republic.
 <hr class="hr-wavy">
+
+**Manuscript under review**
+1. **Yu, S***., Liu, Q., et al. Incorporating pedagogical agents into desktop virtual reality: Does visual-tone emotional congruency matter? 
+   
+2. Xu, S., Liu, Z., **Yu, S**. Effects of olfactory cues and marker type on students’ learning and cognitive performance in an AR-based science lesson.
+
+3. Shen, Y., Zhou, X., Le, H., **Yu, S.**, et al. “Cloud for Youth”: An Implementation Research of Cloud-Based Solutions for Bridging the Digital Divide in Rural China.
+
+4. Ma, J., Liu, Q., **Yu, S.**, et al. Promoting knowledge acquisition and psychological experiences through high immersion and low autonomy design: A case study of virtual instrumental culture museum
+
+5. Ma, J., Li, X., Liu, Q., **Yu, S.**, et al. Unveiling the cognitive and affective mechanisms of virtual museum learning: A partial least squares analysis
 
 ***Software Copyright***
 
@@ -120,13 +145,10 @@ School of Educational Information Technology, Wuhan, Hubei, China<br>
 
 ***Chinese National Invention Patent***
 
-1. A Computational Method and System for an Assemblable Virtual-Real Fusion Experimental Circuit (2023)
-
-2. A magnetic field visualization method, system, and equipment for virtual-real fusion experiments (2022)
-
-3. A teaching method and system for virtual dance (2019)
-
-4. An assessment method for virtual dance system (2018)
+1. Liu, Q., **Yu, S.**, Jiang, Y., Han, M., Zhou, S., Ma, J., Wu, L. (2023) A Computational Method and System for an Assemblable Virtual-Real Fusion Experimental Circuit. ZL 2021 1 0813426.9
+2. Liu, Q., **Yu, S.**, Ma, J., Xu, S., Zheng, X., Yang, W., Wu, L. (2023) A magnetic field visualization method, system, and equipment for virtual-real fusion experiments. ZL 2020 1 1393486.1
+3. Liu, Q., **Yu, S.**, Li, Y., Zhang, Y., Yuan, Y., Wang, Y., Huang, J., Wu, L. (2021) A teaching method and system for virtual dance. ZL 2018 1 0548334.0
+4. Liu, Q., Wang, Y., **Yu, S.**, Wu, L., Huang, J., Zhang, Y., Chang, Y., Yuan, Y. (2019) An assessment method for virtual dance system. ZL 2017 1 0774286.2
 
 ---
 ### HONORS AND AWARDS
@@ -140,12 +162,14 @@ School of Educational Information Technology, Wuhan, Hubei, China<br>
 ---
 ### PROFESSIONAL MEMBERSHIP
 
-- Modern Educational Technology Branch of Chinese Institute of Electronics
+- Global Chinese Conference on Computers in Education (GCCCE) 2026, Program Committee Member in C1：Learning Sciences, Educational Neuroscience, and Computer-supported Collaborative Learning 
 - Immersive Learning Research Network (iLRN)
 
 
 ---
 ### REVIEWER
+- American Education Research Association (AERA 2026) annual meeting
+- GCCCE 2026 
 - Journal of computer assisted learning
 - IEEE transactions on learning technology
 - Computers & Education
@@ -161,6 +185,9 @@ School of Educational Information Technology, Wuhan, Hubei, China<br>
 - **Data analysis**: statistics, HLM, Network analysis (ENA, ONA), sequential analysis (LSA)
 - **Programing language**: C, C #, R
 - **3D game engine**: UNITY
-- **XR developmen**t: Vuforia, VR\_TK
-  
+- **XR development**: Vuforia, VR\_TK, HTC VIVE motion tracking, VR eye tracking (eye data visualization & analysis)
+- **Neural technology**: 
+  - fNIRS experiment: resting state, event-related design, block design, hyperscanning, naturalistic paradigm. 
+  - fNIRS data analysis: Homer2/3 pre-processing, activation analysis, Concentration analysis, functional connectivity, WTC, ISC, DCM, graph theory analysis, EEG-fNIRS combination analysis
+
 ---
