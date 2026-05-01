@@ -39,4 +39,6 @@ end
 
 gem 'faraday-retry'
 
-gem 'csv'
+gem "csv"
+gem "base64"
+gem "bigdecimal"
