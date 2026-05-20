@@ -13,7 +13,7 @@
 
 
 ## About Me
-<img src="/images/ShufanAERA.jpg" class="floatpic" width="500" height="375" >
+<img src="/images/SF_AERA26.png" class="floatpic" width="500" height="375" >
 
 I am currently a postdoctoral fellow at the <a href="https://blclab.org/" target="_blank" style="color:#a62800;">Brain, Language, and Computation (BLC) Lab </a>at The Hong Kong Polytechnic University. 
 My research focuses on the intersection of <font color="#A13232"> cognitive science, immersive learning, and educational technology</font>, aiming to explore how emerging technologies (e.g., AR,VR, GenAI) 
@@ -31,7 +31,7 @@ I have been involved in research projects on various domains, including AR/VR ba
 Most recently, I am doing research on examining the <b><font color="#A13232">neural and behavioral mechanisms</font> </b>of collaborative learning in immersive virtual environments, by utilizing cutting-edge technologies such as VR, fNIRS, and AI.
   Additionally, we are planning to conduct a experiment on integrating biosignal data and GenAI to adaptively support students' learning in VR environments.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at  <em><a href="mailto:yushufan1993@gmail.com">yushufan1993@gmail.com</a></em>
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at  <em><a href="mailto:shufan.yu1@gmail.com">shufan.yu1@gmail.com</a></em>
 
 ---
 ### Academic Background
